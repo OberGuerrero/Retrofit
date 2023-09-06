@@ -13,4 +13,9 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="BottomNavigation">
+        <item name="android:background">@color/lila</item>
+        <item name="itemIconTint">@color/cyan_blue</item>
+        <item name="itemTextColor">@color/black</item>
+    </style>
 </resources>

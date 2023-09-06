@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    <string name="itemPrimero">Primero</string>
+    <string name="itemSegundo">Segundo</string>
+    <string name="itemTercero">Tercero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
